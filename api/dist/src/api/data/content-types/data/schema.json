@@ -1,0 +1,18 @@
+{
+    "kind": "collectionType",
+    "collectionName": "datas",
+    "info": {
+        "singularName": "data",
+        "pluralName": "datas",
+        "displayName": "data"
+    },
+    "options": {
+        "draftAndPublish": true
+    },
+    "pluginOptions": {},
+    "attributes": {
+        "test": {
+            "type": "string"
+        }
+    }
+}
